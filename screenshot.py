@@ -17,7 +17,7 @@ FILE_PREFIX = "billiard"
 # 主热键
 SHOT_KEYS = ("space", "f8")   # 空格不行就按 F8
 EXIT_KEYS = ("q", "f9")       # Q 不行就按 F9
-
+  
 POLL_INTERVAL = 0.03          # 轮询间隔，越小越灵敏，越大越省CPU
 DEBOUNCE_DELAY = 0.20         # 防连触
 # =================================================
