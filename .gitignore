@@ -1,0 +1,6 @@
+# 忽略 img 文件夹
+img/
+
+# 建议：也忽略 Python 的缓存文件（可选）
+__pycache__/
+*.pyc
