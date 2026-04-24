@@ -1,6 +1,6 @@
 # 忽略 img 文件夹
 img/
-
+这个文件不提交.text
 # 建议：也忽略 Python 的缓存文件（可选）
 __pycache__/
 *.pyc

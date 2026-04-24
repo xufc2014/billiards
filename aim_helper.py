@@ -4,7 +4,7 @@ import mss
 import pygetwindow as gw
 from ultralytics import YOLO
 
-# -------------------------- 配置区 --------------------------
+# -------------------------- 配置区 ----------111----------------
 MODEL_PATH = r"I:\xclabel\runs\detect\train-2\weights\best.pt"
 WINDOW_TITLE = "腾讯桌球"
 CONFIDENCE_THRESHOLD = 0.5
